@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+}
+input {
+    margin-bottom: 20px;
+}
+
+#desc {
+    height: 50px
+}
+
+#todo-form {
+    gap: 10px;
+}
